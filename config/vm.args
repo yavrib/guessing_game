@@ -1,0 +1,6 @@
+-sname guessing_game
+
+-setcookie guessing_game_cookie
+
++K true
++A30
